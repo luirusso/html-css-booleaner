@@ -2,8 +2,12 @@ body {
     margin: 0;
 }
 
+* {
+    font-size: 18px;
+}
+
 #logo {
-    height: 50px;
+    height: 60px;
     padding-top: 50px;
     padding-left: 10px;
 }
@@ -28,11 +32,12 @@ h1 {
 #the-booleaner {
     margin-top: 0;
     color: #4096f7;
+    font-size: 22px;
 }
 
 #subtitle {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 22px;
     color: grey;
 }
 
@@ -68,5 +73,6 @@ th {
 }
 
 #might-interest {
+    font-size: 22px;
     color: grey;
 }
