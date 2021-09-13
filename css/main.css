@@ -47,3 +47,26 @@ h1 {
 .highlights {
     background-color: yellow;
 }
+
+#unordered-list {
+    padding-left: 15px;
+}
+
+table {
+        border-collapse: collapse;
+        text-align: left;
+}
+
+th {
+    background-color: #4096f7;
+    color: white;
+    border-collapse: collapse;
+}
+
+.blue-table-row {
+    background-color: #8ad0ff;
+}
+
+#might-interest {
+    color: grey;
+}
