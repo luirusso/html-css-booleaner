@@ -14,3 +14,36 @@ body {
     background-image: url("../img/pattern.png");
     background-size: 22%;
 }
+
+#main-content {
+    margin-left: 11px;
+}
+
+h1 {
+    font-size: 56px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+#the-booleaner {
+    margin-top: 0;
+    color: #4096f7;
+}
+
+#sottotitolo {
+    font-weight: bold;
+    font-size: 20px;
+    color: grey;
+}
+
+#data-sottotitolo {
+    font-size: 15px;
+}
+
+#photo-text {
+    font-size: 14px;
+}
+
+.highlights {
+    background-color: yellow;
+}
