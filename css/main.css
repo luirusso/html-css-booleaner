@@ -2,10 +2,6 @@ body {
     margin: 0;
 }
 
-* {
-    font-size: 18px;
-}
-
 #logo {
     height: 60px;
     padding-top: 50px;
@@ -77,4 +73,51 @@ th {
 #might-interest {
     font-size: 22px;
     color: grey;
+}
+
+/* 
+
+PER FARE BOX CON SCRITTE FINALI
+
+.footer-title {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: gray;
+}
+
+.image {
+    width: 200px;
+    height: 160px;
+    margin-bottom: 
+    background: gray;
+}
+
+CREARE 2 ID PER INSERIRE BACKGROUND AI DUE BOX FINALI
+
+#ID IMMAGINE 1
+
+#ID IMMAGINE 2
+
+*/
+
+#box-1 {
+    padding-top: 9px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    font-size: 23px;
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    width: 252px;
+    height: 206px;
+}
+
+#box-2 {
+    padding-top: 9px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    font-size: 23px;
+    color: white;
+    background-image: url(../img/graph.jpg);
+    width: 252px;
+    height: 206px;
 }
