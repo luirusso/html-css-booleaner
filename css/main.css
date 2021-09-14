@@ -17,10 +17,11 @@ body {
     background-color: #4096f7;
     background-image: url("../img/pattern.png");
     background-size: 22%;
+    margin: 0px 23%;
 }
 
 #main-content {
-    margin: 15px 30px;
+    margin: 15px 23%;
 }
 
 h1 {
